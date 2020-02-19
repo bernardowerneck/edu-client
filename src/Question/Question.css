@@ -1,0 +1,13 @@
+.question
+{
+    margin: .5em;
+    padding: 1em;
+    border: .3em solid #eee;
+    border-radius: .6em;
+    background-color: #ddd;
+}
+
+.question:focus
+{
+    background-color: #aaa;
+}

@@ -1,0 +1,16 @@
+table,th,td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+table {
+    background-color: royalblue;
+}
+
+th,td {
+    padding: 10px;
+}
+
+tr:hover{
+    background-color: mediumblue;
+}
